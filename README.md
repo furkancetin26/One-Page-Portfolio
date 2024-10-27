@@ -2,4 +2,4 @@
 
 ![Proje Ekran Görüntüsü](images/Macbook-Mockup-Front-View-UV.png)
 
-HTML,CSS,JS kullanarak yapmış olduğum responsive websiteyi paylaşmak istedim.
+I wanted to share the responsive website I created using HTML, CSS, JS.
